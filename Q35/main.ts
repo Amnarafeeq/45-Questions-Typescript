@@ -13,3 +13,4 @@ for(let i = 0; i < animalLength; i++){
     console.log(animals[i], "would make a great pet.");
 }
 console.log("I love all animals.But, Cat would make a great pet.");
+console.log("I love the cat much than other animals .");
