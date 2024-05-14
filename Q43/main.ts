@@ -2,7 +2,6 @@
 //  array of magicians’ names. Because the original array will be unchanged, return the new array and store it in
 //   a separate array. Call show_magicians() with each array to show that you have one array of the original names 
 //   and one array with the Great added to each magician’s name.
-
 const magiciansNames: string[] = ["Harry Houdini", "David Blaine", "Criss Angel"]
 
 function magician(array:string[]){
